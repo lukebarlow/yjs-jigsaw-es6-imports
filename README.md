@@ -1,7 +1,7 @@
-yjs jigsaw example with es6 imports
+Yjs jigsaw example with es6 imports
 -----------------------------------
 
-The yjs jigsaw example rewritten using es6 import statements. Babel translates 
+The Yjs jigsaw example rewritten using es6 import statements. Babel translates 
 the code, and webpack packs it up. To run the example
 
 ```
@@ -21,7 +21,7 @@ npm run build
 Then take the file `dist/jigsaw.js`.
 
 
-A couple of yjs specific lines were needed in the webpack configuration
+A couple of Yjs specific lines were needed in the webpack configuration
 
 ```
 plugins: [
